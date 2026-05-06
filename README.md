@@ -6,7 +6,7 @@ Benvenuto in questo repository dove raccolgo i report dei miei Penetration Test 
 
 | Macchina Virtuale | Report PDF | Link alla VM |
 | :--- | :--- | :--- |
-| **Hell1** | [📄 Visualizza Report](./Hell1_PenTest.pdf) | [VulnHub / HTB Link Here](#) |
+| **Hell1** | [📄 Visualizza Report](./Hell1_PenTest.pdf) | [VulnHub / HTB [Link Here](https://www.vulnhub.com/entry/hell-1,95/)](#) |
 
 
 ---
